@@ -1,0 +1,154 @@
+nav {
+    border-top: thin #5b7d87 solid;
+    border-bottom: thin #5b7d87 solid;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+nav .btn {
+    background-color: #5b7d87;
+    color: #fef9ff; 
+	margin-left: 50px;
+}
+
+nav .btn:hover {
+    font-weight: bold;
+}
+
+body{
+	background-color: darkred;
+}
+
+footer{
+	margin-top: 30px;
+}
+
+.custTableDiv{
+	margin-top: 10px;
+}
+
+.custInfoTable{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.custInfoTable, tr, td{
+	border: 0px;
+	color: black;
+}
+
+#infoText{
+	color: black;
+}
+
+.dropdownReason{
+	margin: auto;
+	text-align: center;
+}
+
+.beverageTable tr:nth-child(odd){
+	background-color: black;
+	color: pink;
+}
+
+.beverageTable #bevTable{
+	border: 1px solid pink;
+	color: pink;
+}
+
+.beverageTableDiv{
+	border: 1px solid pink;
+	color: pink;
+	margin-top: 20px;
+}
+
+.pText{
+	color: pink;
+}
+
+.menuTable{
+	color: pink;
+}
+
+.rowOne{
+	text-align: center;
+}
+
+.rowTwo{
+	text-align: center;
+}
+
+.menuDiv{
+	margin-top: 20px;
+}
+
+
+#thePalace{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	width: 70%
+}
+
+.jumbotron{
+	
+	background-image: url('https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_960_720.jpg');
+	background-size: 100% 100%;
+	height: 100%
+	max-width: 100%
+}
+
+.jumbotron h1{
+	display: inline;
+	font-family: 'Allison', cursive;
+	font-style: bold;
+	color: red;
+	font-size: 65px;
+}
+
+.jumbotron h2{
+	display: inherit;
+	font-family: 'Allison', cursive;
+	font-style: bold;
+	text-align: right;
+	font-size: 65px;
+	margin-top: 110px;
+	color: darkmagenta;
+}
+
+.jumbotron h3{
+	font-family: 'Allison', cursive;
+	font-style: bold;
+	font-size: 50px;
+	text-align: right;
+	color: blue;
+	padding-top: 60px;
+}
+
+.jumbotron h4{
+	text-align: center;
+	color: #36E5E9;
+}
+
+.carousel-item{
+	height: 400px;
+	background-size: 100% 100%;
+}
+
+#firstCSlide{
+	color: pink;
+}
+
+#myCarousel{
+	padding-top: 30px;
+}
+
+#submitButton{
+	margin-left: 50%;
+}
+
+#error_message{
+	margin-left: 40%;
+}
